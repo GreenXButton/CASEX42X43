@@ -175,7 +175,7 @@ header ul a:hover{
 }
 .home-info{
     position:absolute;
-        justify-self: anchor-center;
+        justify-self: center;
 }
 
 .hero-info .hero-info-title,
